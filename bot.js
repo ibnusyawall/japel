@@ -74,7 +74,7 @@ class Index {
       const hari = ['minggu', 'senin', 'selasa', 'rabu', 'kamis', 'jumat']
       const date = new Date()
 
-      if (date.getHours() == 16) {
+      if (date.getHours() == 06) {
         if (hari[date.getDay()] == 'senin'.toString()) {
           kirim(process.env.To, process.env.From,
             `[ Jadwal Pelajaran ${process.env.Title} ]\n\n[ tanggal ] : ${this.date}\n\n[•] Senin : ${rh1}\n\n[•] Total : ${rt1} Mata Pelajaran \npowerd by : bot stch`

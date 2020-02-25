@@ -2,6 +2,12 @@
 
 ## Manage Jadwal Pelajaran
 
+### Screenshot
+<p align="center">
+  <img alt="screenshot1" src="https://github.com/ibnusyawall/japel/blob/master/screenshot/japel1.jpg"/>
+  <img alt="screenshot1" src="https://github.com/ibnusyawall/japel/blob/master/screenshot/japel2.jpg"/>
+</p>
+
 ### requirements
 ```
   - NodeJS
@@ -43,3 +49,4 @@
 ```
 WhatsApp: 082299265151
 ```
+
